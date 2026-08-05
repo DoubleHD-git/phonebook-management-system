@@ -52,6 +52,19 @@ components/
 public/
 styles/
 ```
+## Screenshots
+
+### Home
+
+![Home](screenshots/home.png)
+
+### Add Contact
+
+![Add Contact](screenshots/add-contact.png)
+
+### Edit Contact
+
+![Edit Contact](screenshots/edit-contact.png)
 
 ## Future Improvements
 
